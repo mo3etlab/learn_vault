@@ -1,3 +1,6 @@
 # list
 
-alias ezp="./ezpush.sh"
+alias zshrc='vi ~/.zshrc'
+alias ezp='sh ./ezpush.sh'
+alias df='df -h'
+alias grep='grep --color=auto'  
